@@ -1,0 +1,28 @@
+{
+  "start_date": "2015-12-06",
+  "end_date": "2025-12-03",
+  "total_tickers": 16,
+  "successful": [
+    "AAPL",
+    "MSFT",
+    "NVDA",
+    "AVGO",
+    "ORCL",
+    "CRM",
+    "AMD",
+    "CSCO",
+    "IBM",
+    "BRK-B",
+    "JPM",
+    "V",
+    "AMZN",
+    "TSLA",
+    "GOOGL",
+    "META"
+  ],
+  "failed": [],
+  "download_time": "2025-12-03 18:56:05",
+  "successful_count": 16,
+  "failed_count": 0,
+  "success_rate": "100.0%"
+}

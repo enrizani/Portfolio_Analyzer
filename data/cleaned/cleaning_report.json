@@ -1,0 +1,19 @@
+{
+  "cleaning_time": "2025-12-03 18:56:14",
+  "quality_report": {
+    "n_days": 2512,
+    "n_tickers": 16,
+    "date_range": {
+      "start": "2015-12-07",
+      "end": "2025-12-02"
+    },
+    "missing_values": 0,
+    "negative_values": 0,
+    "zero_values": 0,
+    "duplicated_dates": 0,
+    "issues": [],
+    "is_clean": true
+  },
+  "removed_tickers": [],
+  "final_tickers_count": 16
+}
